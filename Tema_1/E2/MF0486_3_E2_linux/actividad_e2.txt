@@ -1,0 +1,2 @@
+Esto es un texto para la realización de esta práctica.
+Consiste en llevar a cabo la encriptación de este mismo archivo de texto.
